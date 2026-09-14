@@ -1,0 +1,50 @@
+.digital {
+  background: #fffdf8;
+  color: black;
+  padding: 58px 47px;
+  height: 476px;
+}
+
+.digital-content {
+  display: flex;
+  gap: 75px;
+}
+
+.content-1 {
+  width: 576.23px;
+  height: 339.67px;
+  margin-top: 10.16px;
+  margin-left: 47px;
+}
+
+.meeting {
+  width: 576.23px;
+  /* height: px; */
+}
+
+.content-2 {
+  width: 682px;
+  height: 360px;
+  gap: 10px;
+}
+
+.para-1 span {
+  padding: 10px;
+  margin: 0px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.5%;
+}
+
+.para-1 pre {
+  color: #4f200e;
+}
+.para-2 p {
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.5%;
+  line-height: 35px;
+  color: #606060;
+  margin-top: 10px;
+}
