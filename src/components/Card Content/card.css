@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   padding: 0;
   margin: 0;
@@ -58,3 +59,65 @@
   margin: 22px 0px;
   box-shadow: black;
 }
+=======
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card-content {
+  width: 1440px;
+  height: 841px;
+  padding: 64px 0px;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 242, 191, 0.72) 0%,
+    rgba(230, 146, 114, 0.87) 100%
+  );
+}
+
+.paga {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.paga-1 {
+  padding: 10px 228px;
+}
+
+.paga-2 {
+  padding: 10px 225px;
+}
+
+.paga-1 span {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.5%;
+  padding: 0px;
+}
+.paga-2 p {
+  color: #606060;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0.5%;
+  padding: 0px;
+}
+.card-section {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-top: 34px;
+  padding: 22px 0px;
+  margin: 0px 50px;
+}
+
+.card {
+  border-radius: 15px;
+  margin: 22px 0px;
+  box-shadow: black;
+}
+>>>>>>> 5b8a7f491978e7f714d558a342eaac3fe3589730

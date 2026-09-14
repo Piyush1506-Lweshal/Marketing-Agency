@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .horizonatl {
   display: flex;
   align-items: center;
@@ -51,3 +52,58 @@ p {
   padding: 1px 10px;
   line-height: 32px;
 }
+=======
+.horizonatl {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+  background-color: #ffc88c;
+  padding: 50px 47px;
+  /* width: 1440px; */
+  height: 218px;
+}
+
+.btn {
+  border: none;
+  border-radius: 16px;
+  color: black;
+  background-color: white;
+  padding: 26px 14px;
+  /* margin: 50px 0px 0px 0px; */
+  width: 319.25px;
+  height: 118px;
+  display: flex;
+  flex-direction: row;
+}
+
+.para {
+  display: flex;
+  flex-direction: column;
+}
+
+.img {
+  background-color: #592f00;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  width: 60px;
+  height: 60px;
+  padding: 13px 11px;
+}
+
+span {
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 1px 10px;
+  line-height: 30px;
+}
+
+p {
+  font-size: 24px;
+  font-weight: 700;
+  padding: 1px 10px;
+  line-height: 32px;
+}
+>>>>>>> 5b8a7f491978e7f714d558a342eaac3fe3589730
